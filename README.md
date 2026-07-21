@@ -18,4 +18,10 @@
   Android & Kotlin · TypeScript & Next.js · Clean Architecture · APIs REST
 </p>
 
-![snake gif](https://github.com/DouglasRibeiroSanguino/DouglasRibeiroSanguino/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/DouglasRibeiroSanguino/DouglasRibeiroSanguino/output/github-contribution-grid-snake.svg"
+    alt="Animação das contribuições"
+    width="100%"
+  />
+</p>
