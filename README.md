@@ -17,3 +17,5 @@
 <p align="center">
   Android & Kotlin · TypeScript & Next.js · Clean Architecture · APIs REST
 </p>
+
+![snake gif](https://github.com/DouglasRibeiroSanguino/DouglasRibeiroSanguino/blob/output/github-contribution-grid-snake.svg)
