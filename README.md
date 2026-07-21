@@ -1,6 +1,6 @@
 <picture>
   <img
-    src="/github-metrics.svg"
+    src="https://raw.githubusercontent.com/DouglasRibeiroSanguino/DouglasRibeiroSanguino/main/github-metrics.svg?v=20260720-2"
     alt="Métricas do GitHub de Douglas Ribeiro Sanguino"
     width="100%"
   />
