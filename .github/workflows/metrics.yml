@@ -30,7 +30,7 @@ jobs:
 
           # Layout amplo: duas colunas no desktop e uma no celular.
           template: classic
-          config_display: columns
+          config_display: large
           config_timezone: America/Sao_Paulo
           config_animations: yes
           config_twemoji: yes
